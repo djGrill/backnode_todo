@@ -1,0 +1,26 @@
+form.edit-form {
+    display: inline;
+}
+form.edit-form.hide {
+    display: none;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-top: 5px;
+}
+
+h3 {
+    display: inline;
+}
+
+.options {
+    margin-left: 20px;
+}
+
+.options a {
+    margin-left: 5px;
+}
