@@ -2,17 +2,17 @@
 
 A [very]simple web app based on [Backbone.js](http://backbonejs.org/), [Node.js](http://nodejs.org/) and [Redis](http://redis.io/) to organize our messy lifes.
 
-## Install
+## Installation
 
-Clone this repo and install Bower and RequireJS:
-
-    npm install -g bower requirejs
-
-Then install the Node dependencies:
+Install Node.js [here](http://nodejs.org/), and then load its dependencies:
 
     npm install
 
-And the Bower dependencies:
+Install Bower:
+
+    npm install -g bower
+
+Install Bower dependencies:
 
     bower install
 
